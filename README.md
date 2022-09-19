@@ -28,6 +28,8 @@ The "project_driectory" should look like: <br>
 
 8. cmd : python app.py
 
+## Project Detailed Video
+https://drive.google.com/file/d/1ntCUBjLsg0LxXgyQL6temcbT-tfpmYFi/view?usp=sharing
 
 
  
