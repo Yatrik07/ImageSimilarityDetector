@@ -7,7 +7,14 @@
 2. [Pawan Kumar](https://www.linkedin.com/in/pawan-kumar-j-140210212/) <br>
 3. [Shashva Machchhar](https://www.linkedin.com/in/shashva/)
 
-### To run this App, Try following steps:
+## Problem Statement
+The built models should be able to find database images that correspond to a given query image (i.e., the model should retrieve database images containing the same object as the query).
+
+Example: Query: Consider you want to search images from your database which contains car 
+Solution: You provide an image of car then all images from database have car should be return.
+
+
+## To run this App, Try following steps
 1. Open Command Prompt
 2. cd project_driectory [ project_driectory : Any deirctory on system to clone the project ]
 3. git clone https://github.com/Yatrik07/ImageSimilarityDetector.git
