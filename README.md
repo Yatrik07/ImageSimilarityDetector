@@ -1,6 +1,6 @@
 # ImageSimilarityDetector
 
-### This project is done by Team "Mini Models" at the Hackathon 2.0 organized by [iNeuron](https://www.linkedin.com/company/ineuron-ai/) at [JECRC University, Jaipur](https://www.linkedin.com/school/jecrcuniversity/).
+### This project is done by Team "Mini Models" at the 24 hours Hackathon - "Tech-A-Thon 2.0" organized by [iNeuron](https://www.linkedin.com/company/ineuron-ai/) at [JECRC University, Jaipur](https://www.linkedin.com/school/jecrcuniversity/).
 
 ## Team Members
 1. [Yatrik Shah](https://www.linkedin.com/in/yatrik-shah-7490481b6/) <br>
